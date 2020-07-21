@@ -10,12 +10,16 @@ Capstone project for Physics 100: Observational Astrophysics.
 
 ## 2 Roman Concrete Stressor Analysis
 
-How does Roman concrete react to stressors common to the Italian coast? Final project for the Bing Overseas Seminar: Pozzuoli. 
+How does Roman concrete react to stressors common to the Italian coast? 
+
+Final project for the Bing Overseas Seminar: Pozzuoli. 
 
 ## 3 Vortices in Superconducting Niobium
 
 In type-II superconductors, applied external magnetic fields trigger the formation of magnetic field vortices.
 
-This paper explores and analyzes the behavior of these vortices in a niobium superconductor. Part of my final project for Physics 108: Advanced Physics Laboratory.
+This paper explores and analyzes the behavior of these vortices in a niobium superconductor. 
+
+Part of my final project for Physics 108: Advanced Physics Laboratory.
 
 
