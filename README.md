@@ -8,11 +8,11 @@ In this project, I analyze data from galaxy Messier 82, using information about 
 
 Capstone project for Physics 100: Observational Astrophysics.
 
-## 2 Roman concrete stressor analysis
+## 2 Roman Concrete Stressor Analysis
 
 How does Roman concrete react to stressors common to the Italian coast? Final project for the Bing Overseas Seminar: Pozzuoli. 
 
-## 3 Vortices in superconducting Niobium
+## 3 Vortices in Superconducting Niobium
 
 In type-II superconductors, applied external magnetic fields trigger the formation of magnetic field vortices.
 
